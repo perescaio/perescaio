@@ -34,4 +34,4 @@ Developing end-to-end analytics projects simulating real business environments (
 
 ## Contact
 
-LinkedIn: [your link]
+LinkedIn: https://www.linkedin.com/in/caio-antoniette-peres-203767272/
